@@ -23,6 +23,11 @@
 실습 : 모달 적용 및 카드 상세보기 이미지, 경로 다운로드 페이지 추가
 
 <div align="center">
-    <img src="../code-with-quarkus/screenshots/Take 2.jpg" width="45%" alt="Take 2">
+    <img src="src\main\resources\META-INF\resources\screenshots\3.png" width="45%" alt="3">
+</div>
+<br>
+
+<div align="center">
+    <img src="../code-with-quarkus/src/main/resources/META-INF/resources/screenshots/4.png" width="45%" alt="4">
 </div>
 <br>
