@@ -7,7 +7,7 @@
 실습 2 : HTML 기본 및 LOL 메인 화면 개발 완료!
 
 <div align="center">
-    <img src="D:\JavaWeb\code-with-quarkus\src\main\resources\META-INF\resources\screenshots\Take 1.jpg" width="45%" alt="Take 1">
+    <img src="../code-with-quarkus/src/main/resources/META-INF/resources/screenshots/1.jpg" width="45%" alt="1">
 </div>
 <br>
 
@@ -15,7 +15,7 @@
 실습 : 모달 적용 완료
 
 <div align="center">
-    <img src="../code-with-quarkus/screenshots/Take 1.jpg" width="45%" alt="Take 2">
+    <img src="../code-with-quarkus/src/main/resources/META-INF/resources/screenshots/2.jpg" width="45%" alt="2">
 </div>
 <br>
 
