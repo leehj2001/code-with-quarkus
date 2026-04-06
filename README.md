@@ -12,14 +12,14 @@
 <br>
 
 ## 4주차 수업 내용
-실습 : 모달 적용 완료
+실습 : 모달 적용 
 
 <div align="center">
     <img src="../code-with-quarkus/src/main/resources/META-INF/resources/screenshots/2.jpg" width="45%" alt="2">
 </div>
 <br>
 
-## 4주차 수업 내용
+## 5주차 수업 내용
 실습 : 모달 적용 및 카드 상세보기 이미지, 경로 다운로드 페이지 추가
 
 <div align="center">
