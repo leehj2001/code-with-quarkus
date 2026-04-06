@@ -33,6 +33,6 @@
 <br>
 
 <div align="center">
-    <img src="src\main\resources\META-INF\resources\screenshots\4.png" width="45%" alt="5">
+    <img src="src\main\resources\META-INF\resources\screenshots\5.png" width="45%" alt="5">
 </div>
 <br>
