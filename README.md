@@ -31,3 +31,8 @@
     <img src="src\main\resources\META-INF\resources\screenshots\4.png" width="45%" alt="4">
 </div>
 <br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\4.png" width="45%" alt="5">
+</div>
+<br>
