@@ -78,3 +78,8 @@
     <img src="src\main\resources\META-INF\resources\screenshots\13.png" width="55%" alt="13">
 </div>
 <br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\14.png" width="65%" alt="14">
+</div>
+<br>
