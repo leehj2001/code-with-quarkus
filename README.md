@@ -70,6 +70,6 @@
 <br>
 
 <div align="center">
-    <img src="screenshots\12.png" width="45%" alt="10">
+    <img src="src\main\resources\META-INF\resources\screenshots\12.png" width="45%" alt="10">
 </div>
 <br>
