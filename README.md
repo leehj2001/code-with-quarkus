@@ -20,7 +20,7 @@
 <br>
 
 ## 5주차 수업 내용
-실습 : 모달 적용 및 카드 상세보기 이미지, 경로 다운로드 페이지 추가
+실습 : 모달 적용 및 카드 상세보기 이미지, 경로 다운로드 페이지 추가 및 상단 좌측 이미지 추가, 네비바 가운데 정렬, 챔피언카드 추가
 
 <div align="center">
     <img src="src\main\resources\META-INF\resources\screenshots\3.png" width="45%" alt="3">
@@ -34,5 +34,42 @@
 
 <div align="center">
     <img src="src\main\resources\META-INF\resources\screenshots\5.png" width="45%" alt="5">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\6.png" width="45%" alt="6">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\7.png" width="45%" alt="7">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\8.png" width="45%" alt="8">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\9.png" width="45%" alt="9">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\10.png" width="45%" alt="10">
+</div>
+<br>
+
+## 6주차 수업 내용
+실습 : 자바스크립트 연결, 실시간 검색 테스트 
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\11.png" width="45%" alt="10">
+</div>
+<br>
+
+<div align="center">
+    <img src="screenshots\12.png" width="45%" alt="10">
 </div>
 <br>
