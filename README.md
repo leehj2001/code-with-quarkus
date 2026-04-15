@@ -85,9 +85,14 @@
 <br>
 
 ## 7주차 수업 내용
-실습 : 실시간 챔피언 검색, 패치검색 카테고리분류
+실습 : 실시간 챔피언 검색, 패치검색 카테고리분류, 나머지 5개 챔피언 모달적용 완료
 
 <div align="center">
     <img src="src\main\resources\META-INF\resources\screenshots\15.png" width="80%" alt="15">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\16.png" width="80%" alt="16">
 </div>
 <br>
