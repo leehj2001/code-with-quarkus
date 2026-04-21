@@ -24,10 +24,23 @@ const NEWS = [
 { title: '패치 노트 16.4', desc: '챔피언 밸런스 및 아이템 업데이트 내용을 확인하세요.', category: '패치 노트' },
 ];
 
+// ── 메인 화면으로 돌아가기 ────────────────────────────────────
+function showMainScreen() {
+    document.querySelector('.hero').classList.remove('d-none'); // 히어로 섹션 다시 표시
+    document.querySelectorAll('section:not(#searchResults)').forEach(s => s.classList.remove('d-none')); // 숨겼던 나머지 섹션 다시 표시
+    document.getElementById('searchResults').classList.add('d-none'); // 검색 결과 섹션 숨김
+    document.getElementById('searchResults').style.display = 'none'; 
+}
+
 // ── 검색 실행 ────────────────────────────────────────────────
 function performSearch(query) {
 const q = query.trim().toLowerCase(); // 앞 뒤 공백제거, 소문자 변환
-if (!q) return;
+
+// 검색어가 없거나 공백인 경우 메인화면으로 복귀
+    if (!q) {
+        showMainScreen();
+        return;
+    }
 document.getElementById('searchKeywordDisplay').textContent = `"${query}"`; // 검색어 인식
 
 // 챔피온 데이터에서 이름, 영문명, 역할군, 라인 중 하나라도 검색어에 포함되면

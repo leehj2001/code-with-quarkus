@@ -1,7 +1,5 @@
 # quarkus 프로젝트 시작! (학번 : 20231410 이름 : 이호준)
 
-매 주 수업 내용을 정리하자.
-
 ## 2, 3주차 수업 내용
 실습 1 : 쿼크스 환경 구축 및 준비 완료!
 실습 2 : HTML 기본 및 LOL 메인 화면 개발 완료!
@@ -12,15 +10,25 @@
 <br>
 
 ## 4주차 수업 내용
-실습 : 모달 적용 
+실습 : 챔피언카드 상세보기 모달 적용!
+실습 : 상단 좌측 이미지, 네비바 가운데 정렬, 검색박스 구현 완료!
 
 <div align="center">
     <img src="src\main\resources\META-INF\resources\screenshots\2.jpg" width="80%" alt="2">
 </div>
 <br>
 
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\17.jpg" width="80%" alt="2">
+</div>
+<br>
+
 ## 5주차 수업 내용
-실습 : 네비바 내용 변경하기, 검색 박스 생성, 모달 내용 작성 후 적용, 카드 상세보기 이미지, 다운로드 페이지 이미지 추가, 경로 다운로드 페이지 추가, 상단 좌측 이미지 추가, 네비바 가운데 정렬, 챔피언카드 추가
+
+실습1 : 다운로드 페이지(다운로드 배경 추가, 권장 시스템 사양) 개발 완료!
+실습2 : 모달(캐릭터 상세 정보 및 스킬) 개발 완료!
+실습3 : 메인 페이지 배경 추가 완료!
+실습4 : 추가 챔피언(멜, 자헨, 유나라) 및 기존 챔피언 상세보기 및 모달 적용 완료!
 
 <div align="center">
     <img src="src\main\resources\META-INF\resources\screenshots\3.png" width="80%" alt="3">
@@ -64,6 +72,10 @@
 
 ## 6주차 수업 내용
 실습 : 새로고침, 플레이버튼, 검색 자바스크립트 연결, 실시간 검색 테스트 
+실습1 : 검색 자바스크립트 연결 및 실시간 검색 테스트 구현 완료!
+실습2 : 새로고침 자바스크립트 연결 완료!
+실습3 : 플레이 버튼 자바스크립트 연결 완료!
+
 <div align="center">
     <img src="src\main\resources\META-INF\resources\screenshots\11.png" width="80%" alt="11">
 </div>
@@ -85,7 +97,10 @@
 <br>
 
 ## 7주차 수업 내용
-실습 : 실시간 챔피언 검색, 패치검색 카테고리분류, 나머지 5개 챔피언 모달적용 완료
+실습 : 실시간 챔피언 검색 자바스크립트 구현 및 패치검색 카테고리분류 구현 완료!
+실습 : 새 챔피언 데이터 적용 완료!
+실습 : 기존5개 챔피언 모달적용 완료!
+실습 : 검색어 기능 추가(검색어가 없거나 공백인 경우 메인화면) 구현 완료!
 
 <div align="center">
     <img src="src\main\resources\META-INF\resources\screenshots\15.png" width="80%" alt="15">
