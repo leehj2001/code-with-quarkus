@@ -12,6 +12,8 @@
 ## 4주차 수업 내용
 실습 : 챔피언카드 상세보기 모달 적용!
 실습 : 상단 좌측 이미지, 네비바 가운데 정렬, 검색박스 구현 완료!
+header, nav, section 태그를 사용하여 검색 영역과 결과 영역을 논리적으로 분리했습니다.
+bootstrap.bundle.min.js와 CDN을 연동하여 네비게이션 바, 카드 레이아웃, 모달 시스템을 빠르게 구축했습니다.
 
 <div align="center">
     <img src="src\main\resources\META-INF\resources\screenshots\2.jpg" width="80%" alt="2">
@@ -27,8 +29,10 @@
 
 실습1 : 다운로드 페이지(다운로드 배경 추가, 권장 시스템 사양) 개발 완료!
 실습2 : 모달(캐릭터 상세 정보 및 스킬) 개발 완료!
+        Bootstrap의 col-lg-5, col-lg-7 등을 활용하여 왼쪽에는 이미지, 오른쪽에는 스킬과 스토리를 배치하는 2단 레이아웃을 적용했습니다.
 실습3 : 메인 페이지 배경 추가 완료!
 실습4 : 추가 챔피언(멜, 자헨, 유나라) 및 기존 챔피언 상세보기 및 모달 적용 완료!
+
 
 <div align="center">
     <img src="src\main\resources\META-INF\resources\screenshots\3.png" width="80%" alt="3">
@@ -76,6 +80,7 @@
 실습2 : 새로고침 자바스크립트 연결 완료!
 실습3 : 플레이 버튼 자바스크립트 연결 완료!
 
+
 <div align="center">
     <img src="src\main\resources\META-INF\resources\screenshots\11.png" width="80%" alt="11">
 </div>
@@ -99,8 +104,10 @@
 ## 7주차 수업 내용
 실습 : 실시간 챔피언 검색 자바스크립트 구현 및 패치검색 카테고리분류 구현 완료!
 실습 : 새 챔피언 데이터 적용 완료!
-실습 : 기존5개 챔피언 모달적용 완료!
 실습 : 검색어 기능 추가(검색어가 없거나 공백인 경우 메인화면) 구현 완료!
+검색어가 공백일 때의 예외 처리와 카테고리별 분류 기능을 추가하여 완성도 높은 결과물을 도출했습니다.
+
+추가실습 : 기존5개 챔피언 모달적용 완료!
 
 <div align="center">
     <img src="src\main\resources\META-INF\resources\screenshots\15.png" width="80%" alt="15">
