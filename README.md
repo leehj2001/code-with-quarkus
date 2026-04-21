@@ -115,6 +115,11 @@ bootstrap.bundle.min.js와 CDN을 연동하여 네비게이션 바, 카드 레�
 <br>
 
 <div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\18.png" width="80%" alt="15">
+</div>
+<br>
+
+<div align="center">
     <img src="src\main\resources\META-INF\resources\screenshots\16.png" width="80%" alt="16">
 </div>
 <br>
