@@ -146,7 +146,7 @@ bootstrap.bundle.min.js와 CDN을 연동하여 네비게이션 바, 카드 레�
 </div>
 <br>
 
-## 9주차 수업 내용
+## 10주차 수업 내용
 실습 : login 창 구현
 실습 : logout 네비바 버튼 구현
 
