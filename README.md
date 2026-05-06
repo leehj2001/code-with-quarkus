@@ -145,3 +145,17 @@ bootstrap.bundle.min.js와 CDN을 연동하여 네비게이션 바, 카드 레�
     <img src="src\main\resources\META-INF\resources\screenshots\21.png" width="80%" alt="16">
 </div>
 <br>
+
+## 9주차 수업 내용
+실습 : login 창 구현
+실습 : logout 네비바 버튼 구현
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\22.png" width="80%" alt="15">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\23.png" width="80%" alt="15">
+</div>
+<br>
