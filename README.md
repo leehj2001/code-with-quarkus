@@ -129,7 +129,7 @@ bootstrap.bundle.min.js와 CDN을 연동하여 네비게이션 바, 카드 레�
 실습 : MySQL 설치 및 데이터베이스 연동(Champion.java, ChampionResource.java, DataSeeder.java)
 실습 : 네비바 다크모드, 라이트모드 연동
 
-추가실습 : 
+추가실습 : 검색결과 모달창 띄우기 작업
 
 <div align="center">
     <img src="src\main\resources\META-INF\resources\screenshots\19.png" width="80%" alt="15">
@@ -143,6 +143,16 @@ bootstrap.bundle.min.js와 CDN을 연동하여 네비게이션 바, 카드 레�
 
 <div align="center">
     <img src="src\main\resources\META-INF\resources\screenshots\21.png" width="80%" alt="16">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\24.png" width="80%" alt="16">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\25.png" width="80%" alt="16">
 </div>
 <br>
 
