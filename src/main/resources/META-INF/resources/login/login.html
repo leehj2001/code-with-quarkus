@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>League of Legends - 메인 페이지</title>
+    <title>League of Legends - 로그인</title>
     <!-- Bootstrap 5 CDN -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="../js/bootstrap.bundle.min.js"></script>
@@ -16,7 +16,7 @@
         }
     </script>
     <!-- 커스텀 스타일 (LOL 테마 + 챔피언 호버 효과) -->
-     <link rel="stylesheet" href="css/main.css">
+     <link rel="stylesheet" href="../css/main.css">
     <style>
         body { background-color: #0a0e17; color: #fff; font-family: 'Arial', sans-serif; }
         .navbar { background-color: #000; }
@@ -37,8 +37,10 @@
 
         <img src="../image/l1.jpg" alt="" width="35" height="35">
         <!-- [변경] "Navbar" 텍스트 → 다크/라이트 토글 버튼 -->
-        <button class="btn border-0" id="themeToggleBtn" onclick="toggleTheme()">
+        <!-- <button class="btn border-0" id="themeToggleBtn" onclick="toggleTheme()">
         🌙DARK
+        </button> -->
+        <button class="btn border-0" id="themeToggleBtn">🌙DARK
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
@@ -49,16 +51,16 @@
                 <a class="nav-link active" aria-current="page" href="#">뉴스</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">챔피언</a>
+                <a class="nav-link active" href="#">챔피언</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="main_page_sub/download.html">다운로드</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/login">로그인</a>
+                <a class="nav-link active" href="/login">로그인</a>
             </li>
             <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <a class="nav-link active dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 외부웹사이트
                 </a>
                 <ul class="dropdown-menu">

@@ -165,6 +165,8 @@ bootstrap.bundle.min.js와 CDN을 연동하여 네비게이션 바, 카드 레�
 실습 : login 창 구현
 실습 : logout 네비바 버튼 구현
 
+추가실습 : login.html 및 main_after_login.html 네비바 다크/라이트 모드 적용
+
 <div align="center">
     <img src="src\main\resources\META-INF\resources\screenshots\22.png" width="80%" alt="15">
 </div>
@@ -172,5 +174,15 @@ bootstrap.bundle.min.js와 CDN을 연동하여 네비게이션 바, 카드 레�
 
 <div align="center">
     <img src="src\main\resources\META-INF\resources\screenshots\23.png" width="80%" alt="15">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\27.png" width="80%" alt="15">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\28.png" width="80%" alt="15">
 </div>
 <br>

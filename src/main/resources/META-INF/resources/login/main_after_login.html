@@ -16,7 +16,7 @@
         }
     </script>
     <!-- 커스텀 스타일 (LOL 테마 + 챔피언 호버 효과) -->
-     <link rel="stylesheet" href="css/main.css">
+     <link rel="stylesheet" href="../css/main.css">
     <style>
         body { background-color: #0a0e17; color: #fff; font-family: 'Arial', sans-serif; }
         .navbar { background-color: #000; }
@@ -37,8 +37,10 @@
 
         <img src="../image/l1.jpg" alt="" width="35" height="35">
         <!-- [변경] "Navbar" 텍스트 → 다크/라이트 토글 버튼 -->
-        <button class="btn border-0" id="themeToggleBtn" onclick="toggleTheme()">
+        <!-- <button class="btn border-0" id="themeToggleBtn" onclick="toggleTheme()">
         🌙DARK
+        </button> -->
+        <button class="btn border-0" id="themeToggleBtn">🌙DARK
         </button>
         <!-- <a class="navbar-brand" href="index.html">
             <img src="image/l1.jpg" alt="LOL Logo" width="35" height="35">
@@ -56,7 +58,7 @@
                 <a class="nav-link active" aria-current="page" href="#">뉴스</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">챔피언</a>
+                <a class="nav-link active" href="#">챔피언</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="main_page_sub/download.html">다운로드</a>
@@ -67,7 +69,7 @@
             href="/logout">로그아웃</a>
             </li>
             <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <a class="nav-link active dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 외부웹사이트
                 </a>
                 <ul class="dropdown-menu">
