@@ -63,3 +63,48 @@ body {
 .accent-purple { 
     color: #a020f0; 
 }
+
+/* ── download.html 전용 라이트 모드 설정 ─────────────── */
+
+body.light-mode {
+    background-color: #ffffff !important;
+    color: #212529 !important;
+}
+
+/* 히어로 섹션: 배경 이미지를 밝게 처리하거나 오버레이 제거 */
+body.light-mode .hero {
+    background: linear-gradient(rgba(255,255,255,0.8), rgba(255,255,255,0.9)), 
+                url('../image/down.wb.jpeg') center/cover no-repeat !important;
+}
+
+body.light-mode .hero h1 {
+    color: #a020f0 !important; /* 골드 대신 보라색 강조 */
+    text-shadow: none !important;
+}
+
+/* 테이블 설정: 다크 테마 변수 덮어쓰기 */
+body.light-mode .table {
+    --bs-table-bg: #ffffff;
+    --bs-table-color: #212529;
+    --bs-table-border-color: #dee2e6;
+}
+
+body.light-mode .table th {
+    background-color: #f8f9fa !important;
+    color: #a020f0 !important;
+}
+
+/* 탭 설정 */
+body.light-mode .nav-tabs .nav-link {
+    color: #666;
+}
+
+body.light-mode .nav-tabs .nav-link.active {
+    background-color: #f8f9fa;
+    color: #a020f0;
+}
+
+/* 네비바 글자색 (download.html용) */
+body.light-mode .nav-link {
+    color: #212529 !important;
+}
