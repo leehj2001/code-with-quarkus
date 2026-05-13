@@ -186,3 +186,28 @@ bootstrap.bundle.min.js와 CDN을 연동하여 네비게이션 바, 카드 레�
     <img src="src\main\resources\META-INF\resources\screenshots\28.png" width="80%" alt="15">
 </div>
 <br>
+
+## 10주차 수업 내용
+실습 : register 창 구현 및 암호화
+
+추가실습 : 
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\29.png" width="80%" alt="15">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\30.png" width="80%" alt="15">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\31.png" width="80%" alt="15">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\32.png" width="80%" alt="15">
+</div>
+<br>
