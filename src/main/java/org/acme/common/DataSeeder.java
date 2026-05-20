@@ -14,11 +14,11 @@ public class DataSeeder {
     @Transactional
     void onStart(@Observes StartupEvent ev) { // CDI 표준, 이벤트
         // User 초기 데이터 (챔피온 데이터와 별도 블록)
-        if (User.count() == 0) {
-            User guest = new User();
-            guest.username = "guest";
-            guest.password = "123123";
-            guest.persist();
+     if (User.count() == 0) {
+        User guest = new User();
+        guest.username = "admin";
+        guest.password = "113765B146867037B814A8EF1C2EC35D73BFB77C8D27A5F1A520099F5949CFAA";
+        guest.persist();
         }
 
     if (Champion.count() > 0) return; // 이미 데이터 있으면 중단

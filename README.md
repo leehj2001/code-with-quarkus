@@ -5,7 +5,7 @@
 실습 2 : HTML 기본 및 LOL 메인 화면 개발 완료!
 
 <div align="center">
-    <img src="src\main\resources\META-INF\resources\screenshots\1.jpg" width="80%" alt="1">
+    <img src="src\main\resources\META-INF\resources\screenshots\1.jpg" width="80%" alt="아트록스">
 </div>
 <br>
 
@@ -16,12 +16,12 @@ header, nav, section 태그를 사용하여 검색 영역과 결과 영역을 �
 bootstrap.bundle.min.js와 CDN을 연동하여 네비게이션 바, 카드 레이아웃, 모달 시스템을 빠르게 구축했습니다.
 
 <div align="center">
-    <img src="src\main\resources\META-INF\resources\screenshots\2.jpg" width="80%" alt="2">
+    <img src="src\main\resources\META-INF\resources\screenshots\2.jpg" width="80%" alt="모달 적용">
 </div>
 <br>
 
 <div align="center">
-    <img src="src\main\resources\META-INF\resources\screenshots\17.jpg" width="80%" alt="2">
+    <img src="src\main\resources\META-INF\resources\screenshots\17.png" width="80%" alt="네비바">
 </div>
 <br>
 
@@ -35,17 +35,17 @@ bootstrap.bundle.min.js와 CDN을 연동하여 네비게이션 바, 카드 레�
 
 
 <div align="center">
-    <img src="src\main\resources\META-INF\resources\screenshots\3.png" width="80%" alt="3">
+    <img src="src\main\resources\META-INF\resources\screenshots\3.png" width="80%" alt="다운로드">
 </div>
 <br>
 
 <div align="center">
-    <img src="src\main\resources\META-INF\resources\screenshots\4.png" width="80%" alt="4">
+    <img src="src\main\resources\META-INF\resources\screenshots\4.png" width="80%" alt="권장사양">
 </div>
 <br>
 
 <div align="center">
-    <img src="src\main\resources\META-INF\resources\screenshots\5.png" width="80%" alt="5">
+    <img src="src\main\resources\META-INF\resources\screenshots\5.png" width="80%" alt="아트록스 모달">
 </div>
 <br>
 
@@ -187,10 +187,10 @@ bootstrap.bundle.min.js와 CDN을 연동하여 네비게이션 바, 카드 레�
 </div>
 <br>
 
-## 10주차 수업 내용
+## 11주차 수업 내용
 실습 : register 창 구현 및 암호화
 
-추가실습 : 
+추가실습 : 로그인 화면 입력값 체크
 
 <div align="center">
     <img src="src\main\resources\META-INF\resources\screenshots\29.png" width="80%" alt="15">
@@ -209,5 +209,55 @@ bootstrap.bundle.min.js와 CDN을 연동하여 네비게이션 바, 카드 레�
 
 <div align="center">
     <img src="src\main\resources\META-INF\resources\screenshots\32.png" width="80%" alt="15">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\33.png" width="80%" alt="15">
+</div>
+<br>
+
+## 12주차 수업 내용
+실습 : 로그인 암호화 체크 및 프로필 구현, 프로필사진 업로드 구현 완료
+
+추가실습 :  로그인 화면 세션 중복 처리
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\34.png" width="80%" alt="15">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\35.png" width="80%" alt="15">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\36.png" width="80%" alt="15">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\37.png" width="80%" alt="15">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\38.png" width="80%" alt="15">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\39.png" width="80%" alt="15">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\40.png" width="80%" alt="15">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\41.png" width="80%" alt="15">
 </div>
 <br>
