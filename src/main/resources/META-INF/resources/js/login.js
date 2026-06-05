@@ -58,3 +58,7 @@ function clearError(fieldId) {
         field.classList.add('is-valid');
     }
 }
+
+ window.onload = function() {
+        showToast('회원가입 페이지 로딩 완료');
+        }

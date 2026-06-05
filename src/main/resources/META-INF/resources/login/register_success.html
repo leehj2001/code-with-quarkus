@@ -62,17 +62,7 @@
             <li class="nav-item">
                 <a class="nav-link active" href="/login">로그인</a>
             </li>
-            <li class="nav-item dropdown">
-                <a class="nav-link active dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                외부웹사이트
-                </a>
-                <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="https://lol.ps/" target="_blank">롤전적</a></li>
-                <li><a class="dropdown-item" href="#">불법사이트</a></li>
-                <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="#">외부웹</a></li>
-                </ul>
-            </li>
+
             </ul>
            <form class="d-flex" id="searchForm">
                 <input class="form-control me-2" type="search" placeholder="챔피언, 뉴스 검색..." aria-label="Search" id="searchInput">
@@ -102,6 +92,24 @@
     </div>
 </section>
 
-<script src="js/search.js"> </script>
+     <!-- 토스트 컨테이너 </body> 바로 위에 추가 -->
+        <div class="toast-container position-fixed
+                    bottom-0 end-0 p-3" style="z-index:9999">
+        <div id="liveToast" class="toast align-items-center
+            text-white bg-success border-0" role="alert">
+            <div class="d-flex">
+            <div class="toast-body" id="toastBody">
+                메시지
+            </div>
+            <button type="button"
+                    class="btn-close btn-close-white me-2 m-auto"
+                    data-bs-dismiss="toast"></button>
+            </div>
+    </div>
+    </div>
+
+
+<script src="../js/search.js"> </script>
+<script src="../js/register_success.js"> </script>
 </body>
 </html>

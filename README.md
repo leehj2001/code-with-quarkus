@@ -263,16 +263,41 @@ bootstrap.bundle.min.js와 CDN을 연동하여 네비게이션 바, 카드 레�
 <br>
 
 ## 13주차 수업 내용
-실습 : 
+실습 : 회원관리 페이지, 브라우저 기본 알림 창 Toast구현, 네비바 사용자명 동적 표시, 회원정보 수정 폼 추가, 결과 메세지, 비밀번호 변경 폼, 유효성 검사, 해시, 비밀번호 변경 성공 Toast처리
 
-추가실습 :  
+추가실습 :  미구현 된 토스트 구현 완료
 
 <div align="center">
-    <img src="src\main\resources\META-INF\resources\screenshots\41.png" width="80%" alt="15">
+    <img src="src\main\resources\META-INF\resources\screenshots\42.png" width="80%" alt="15">
 </div>
 <br>
 
 <div align="center">
-    <img src="src\main\resources\META-INF\resources\screenshots\41.png" width="80%" alt="15">
+    <img src="src\main\resources\META-INF\resources\screenshots\43.png" width="80%" alt="15">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\44.png" width="80%" alt="15">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\45.png" width="80%" alt="15">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\46.png" width="80%" alt="15">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\47.png" width="80%" alt="15">
+</div>
+<br>
+
+<div align="center">
+    <img src="src\main\resources\META-INF\resources\screenshots\48.png" width="80%" alt="15">
 </div>
 <br>
